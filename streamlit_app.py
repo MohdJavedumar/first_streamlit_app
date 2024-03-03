@@ -39,4 +39,4 @@ my_cur.execute ("insert into fruit_load_list values ('from streamlit')")
 my_cur.execute ("insert into fruit_load_list values ('test')")
 my_cur.execute ("insert into fruit_load_list values ('Guava')")
 
-from urllib.error import URLError
+#from urllib.error import URLError
